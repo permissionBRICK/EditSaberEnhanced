@@ -74,5 +74,8 @@ Intermediate/*
 # Packaged exe
 Packaging/*
 
+# Releases
+Releases/*
+
 # Cache files for the editor to use
 DerivedDataCache/*
