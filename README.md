@@ -8,8 +8,10 @@ Download it here: https://github.com/permissionBRICK/EditSaberEnhanced/releases
 Added features:
 - Copy Pasting Lighting Events (you can either select notes or lighting at a time, just press Ctrl+A to deselect if you can't select anything.)
 - Copy Pasting Walls (you can select walls along with notes)
+- Pasted Blocks will now be automatically selected
 - Bulk select (hold Ctrl and select first and last block)
 - Drag Select: hold down N to select notes and walls, or L to select Lighting, and then use the scrollwheel to select all notes passed (only works in one direction)
+- Delete notes and events by mouse hover and pressing entf
 - Bulk delete (hit Del while having blocks selected)
 - Mirroring Tool
 - Undo for one copy paste
@@ -17,8 +19,7 @@ Added features:
 - Alt + WASD to change events on hover
 - shift + alt + click to jump the track to a note
 - event color switch with middle mouse
-- hotkeys for events (WASD, 1 and 2)
-- Delete notes and events by mouse hover and pressing entf
+- hotkeys for events (WASD12, or 6789UI)
 - change the noteJumpSpeed from the ingame menu
 
 more to be added 
