@@ -14,6 +14,7 @@ Added features:
 - Delete notes and events by mouse hover and pressing entf
 - Bulk delete (hit Del while having blocks selected)
 - Mirroring Tool
+- Added a ghost-block for events
 - Pasted Blocks will now be automatically selected
 - Undo for one copy paste
 - Alt + Drag to move events
