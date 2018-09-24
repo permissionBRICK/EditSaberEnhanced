@@ -23,7 +23,7 @@ Added features:
 - Alt + WASD to change events on hover
 - shift + alt + click to jump the track to a note
 - event color switch with middle mouse
-- hotkeys for events (WASD12, or 6789UI)
+- hotkeys for events (WASD and 1,2)
 - change the noteJumpSpeed from the ingame menu
 
 more to be added 
