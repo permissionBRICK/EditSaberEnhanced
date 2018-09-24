@@ -15,6 +15,8 @@ Added features:
 - Bulk delete (hit Del while having blocks selected)
 - Mirroring Tool
 - Added a ghost-block for events
+- Added a preview key for events (V)
+- fixes notes swapping place upon spawn in Beat Saber
 - Pasted Blocks will now be automatically selected
 - Undo for one copy paste
 - Alt + Drag to move events
