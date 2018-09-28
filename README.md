@@ -1,7 +1,7 @@
 # 3D beatsaber song editor
 ![alt text](https://github.com/Ikeiwa/3D-beatsaber-song-editor/blob/master/logo.png?raw=true)
-This is a fork of the EditSaber release 6v2 by Ikeiwa, all credits for the original Editor go to him.
-The latest release includes a ton of features by squeaksies who took the time to merge our two versions together!
+This is a fork of the EditSaber release 6v2 by Ikeiwa, all credits for the original Editor go to them.
+It also includes a ton of features by squeaksies who took the time to merge our two versions together!
 
 Download it here: https://github.com/permissionBRICK/EditSaberEnhanced/releases
 
@@ -25,5 +25,6 @@ Added features:
 - event color switch with middle mouse
 - hotkeys for events (WASD and 1,2)
 - change the noteJumpSpeed from the ingame menu
+- disable the Lighting Event Ghost from the ingame menu
 
 more to be added 
