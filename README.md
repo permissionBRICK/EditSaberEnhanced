@@ -3,7 +3,10 @@
 This is a fork of the EditSaber release 6v2 by Ikeiwa, all credits for the original Editor go to them.
 It also includes a ton of features by squeaksies who took the time to merge our two versions together!
 
-Download it here: https://github.com/permissionBRICK/EditSaberEnhanced/releases
+UPDATE: This version of the Editor is no longer in development, however Squeaksies picked up the torch and released a fork of this Editor which was since heavily improved. Check it out here:
+
+https://github.com/squeaksies/MediocreMapper
+
 
 Added features:
 - Copy Pasting Lighting Events (you can either select notes or lighting at a time, just press Ctrl+A to deselect if you can't select anything.)
