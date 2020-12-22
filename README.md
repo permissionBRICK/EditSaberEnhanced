@@ -4,8 +4,8 @@ This is a fork of the EditSaber release 6v2 by Ikeiwa, all credits for the origi
 It also includes a ton of features by squeaksies who took the time to merge our two versions together!
 
 UPDATE: This version of the Editor is no longer in development, however Squeaksies picked up the torch and released a fork of this Editor which was since heavily improved. Check it out here:
-
-https://github.com/squeaksies/MediocreMapper
+UPDATE 2: Squeaksies stopped development, and it was continued by the BSMG Staff over here:
+https://git.bsmg.dev/Top_Cat/MediocreMapAssistant2
 
 
 Added features:
